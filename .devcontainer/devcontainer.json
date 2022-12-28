@@ -1,0 +1,6 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/swift:1",
+  "args": { "VARIANT": "5.5" },
+  "features": {
+  }
+}
